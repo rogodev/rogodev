@@ -27,6 +27,19 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
+
+### About Me 🧑‍💻
+
+- **Programming & Markup Language Instructor** at higher education level 🧑‍🏫
+- **Game Developer** specializing in **Unity** and **Unreal Engine** 🎮
+- Experienced in **2D/3D Game Development**, **Game Audio**, and **Interactive Media** 🩻
+- **Full-Stack Developer** with expertise in **HTML5, CSS3, JavaScript, Node.js**, and **Python** 👨‍💻
+- Skilled in **Android Development** for mobile apps and games 📱
+- Passionate about teaching and building innovative software solutions 🔥
+
+
+
+
 ### 🖥️ &nbsp;GitHub Analytics           
 
 <a href="https://github.com/rogodev">
