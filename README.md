@@ -9,6 +9,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+
+
+### 🖥️ &nbsp;GitHub Analytics           
+
+<a href="https://github.com/rogodev">
+    <img src="https://kenysdev.vercel.app//api" width="60%" />
+    <img src="https://kenysdev.vercel.app/api/top-langs" width="60%" />
+</a>
 <!--
 **rogodev/rogodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
