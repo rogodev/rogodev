@@ -28,7 +28,7 @@
 
 
 
-### About Me 🧑‍💻
+# About Me 🧑‍💻
 
 - **Programming & Markup Language Instructor** at higher education level 🧑‍🏫
 - **Game Developer** specializing in **Unity** and **Unreal Engine** 🎮
@@ -38,9 +38,19 @@
 - Passionate about teaching and building innovative software solutions 🔥
 
 
+### Connect with me ‼️
 
 
-### 🖥️ &nbsp;GitHub Analytics           
+- [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=50)](https://www.linkedin.com/in/tuusuario)
+- [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=00A9E0&logoWidth=50)](https://twitter.com/tuusuario)
+- [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white&labelColor=F7DF1E&logoWidth=50)](https://github.com/tuusuario)
+- [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=FF6347&logoWidth=50)](https://www.instagram.com/tuusuario)
+- [![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=4267B2&logoWidth=50)](https://www.facebook.com/tuusuario)
+- [![YouTube](https://img.shields.io/badge/YOUTUBE-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=FF5733&logoWidth=50)](https://www.youtube.com/c/tuusuario)
+- [![TikTok](https://img.shields.io/badge/TIKTOK-000000?style=flat&logo=tiktok&logoColor=white&labelColor=58D68D&logoWidth=50)](https://www.tiktok.com/@tuusuario)
+
+
+# 🖥️ &nbsp;GitHub Analytics           
 
 <a href="https://github.com/rogodev">
     <img src="https://kenysdev.vercel.app//api" width="60%" />
