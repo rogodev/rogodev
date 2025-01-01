@@ -38,7 +38,7 @@
 - Passionate about teaching and building innovative software solutions 🔥
 
 
-### Connect with me ‼️
+# Connect with me ‼️
 
 
 - [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=50)](https://www.linkedin.com/in/tuusuario)
