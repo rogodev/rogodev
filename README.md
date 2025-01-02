@@ -41,7 +41,7 @@
 # Connect with me ‼️
 
 
-- [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=50)](https://www.linkedin.com/in/tuusuario)
+- [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=50)](https://www.linkedin.com/in/rodrigo-cabello-hern%C3%A1ndez-baa786311/)
 - [![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=00A9E0&logoWidth=50)](https://twitter.com/tuusuario)
 - [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white&labelColor=F7DF1E&logoWidth=50)](https://github.com/tuusuario)
 - [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=FF6347&logoWidth=50)](https://www.instagram.com/tuusuario)
@@ -55,6 +55,10 @@
 ![rogodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogodev&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogodev&size_weight=0.5&count_weight=0.5&theme=tokyonight)
+
+
+# Contact me
+I'm always excited to collaborate on interesting projects, share ideas, or simply discuss technology. Feel free to reach out to me through [rodrigocabellohernandez@gmail.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rodrigo-cabello-hern%C3%A1ndez-baa786311/). Let's build something amazing together! 🚀
 
 <!--
 **rogodev/rogodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
